@@ -1,4 +1,5 @@
 ### Hi there 👋
+![A dancing cat](https://github.com/Thejackalphantom/Thejackalphantom/blob/master/Dancing-cat.gif)
 
 <!--
 **Thejackalphantom/Thejackalphantom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
